@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
         dogList.add(new Dog(R.drawable.dog7, "小狗7"));
         dogList.add(new Dog(R.drawable.dog8, "小狗8"));
         dogList.add(new Dog(R.drawable.dog9, "小狗9"));
-        dogList.add(new Dog(R.drawable.dog10, "小狗10"));
     }
 
     private void initViews() {
